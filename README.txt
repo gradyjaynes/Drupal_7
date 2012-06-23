@@ -1,8 +1,8 @@
-
 CONTENTS OF THIS FILE
 ---------------------
 
  * About Drupal
+ * Includes Wings
  * Configuration and features
  * Appearance
  * Developing for Drupal
